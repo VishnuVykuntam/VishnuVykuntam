@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishnu
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning how not to be lzy
+- 🌱 I’m currently learning how not to be lazy
 
 <!---
 VishnuVykuntam/VishnuVykuntam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
